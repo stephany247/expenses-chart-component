@@ -86,9 +86,6 @@ Moving forward, I want to refine my understanding of advanced Chart.js customiza
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
 - [Chart.js Documentation](https://www.chartjs.org/docs/latest/) - This was my primary reference for configuring and customizing the chart, including tooltips and scales.
 - [React Chart.js 2](https://react-chartjs-2.js.org/) - This library's documentation helped me integrate Chart.js seamlessly with React.
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs) - Provided a utility-first approach to styling, making it easier to structure and style components quickly.- Helped me manage styles efficiently using CSS variables.
